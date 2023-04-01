@@ -630,6 +630,7 @@ class AppLocalizationDelegate
       Locale.fromSubtags(languageCode: 'tr', countryCode: 'TR'),
       Locale.fromSubtags(languageCode: 'zh', countryCode: 'CN'),
       Locale.fromSubtags(languageCode: 'zh', countryCode: 'TW'),
+      Locale.fromSubtags(languageCode: 'he', countryCode: 'IL'),
     ];
   }
 
